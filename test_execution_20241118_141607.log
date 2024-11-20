@@ -1,0 +1,9 @@
+2024-11-18 14:16:07,476 - INFO - Firefox options configured
+2024-11-18 14:16:07,476 - INFO - Initializing Firefox WebDriver...
+2024-11-18 14:16:12,584 - INFO - Firefox WebDriver initialized successfully
+2024-11-18 14:16:12,584 - INFO - Starting title verification test using firefox
+2024-11-18 14:16:12,585 - INFO - Navigating to URL: https://www.canva.com/design/DAF8D5PfEz0/ocjnH2CvH74Gmhu7hU3iMg/edit
+2024-11-18 14:16:22,645 - INFO - Actual title: LAUNCHING THE NEW EDITION COFFEE SHOP - Website
+2024-11-18 14:16:22,646 - INFO - Expected title: LAUNCHING THE NEW EDITION COFFEE SHOP - Website
+2024-11-18 14:16:22,646 - INFO - Title verification successful on firefox!
+2024-11-18 14:16:22,646 - INFO - Closing browser
